@@ -17,4 +17,4 @@ Tasks to be done :
 <img src = "https://github.com/kunal768/Hackgrid-Submission-Team-Lanterns/blob/master/HackGrid19/ui.jpeg">
 <br>
 <strong> Random Generated Suggestion List Based On User Input </strong>
-<img src = "https://github.com/kunal768/Hackgrid-Submission-Team-Lanterns/blob/master/HackGrid19/output.JPG">
+<img src = "https://github.com/Sarthakkathuria/Hackgrid-Submission-Team-Lanterns/blob/master/HackGrid19/UI_Update.PNG">
